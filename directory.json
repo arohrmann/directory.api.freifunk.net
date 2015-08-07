@@ -134,6 +134,7 @@
 	"neuss" : "https://raw.githubusercontent.com/ffrl/FF-API-Rheinufer/master/neuss.json",
 	"niex" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-niex.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
+"nordlippe" : "http://update.freifunk-nordlippe.de/ffapi.json",
 	"nordwest" : "https://netmon.nordwest.freifunk.net/scripts/ffnetapi/ffnetapi.php",
 	"oberhausen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/oberhausen.json",
 	"obernkirchen" : "http://freifunk-obernkirchen.de/FreifunkObernkirchen-api.json",
